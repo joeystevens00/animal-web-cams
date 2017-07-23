@@ -1,0 +1,8 @@
+{
+  "name": "animal web cams",
+  "description": "Small directory of animal webcams Edit",
+  "repository": "https://github.com/joeystevens00/animal-web-cams",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}

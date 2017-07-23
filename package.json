@@ -1,0 +1,26 @@
+{
+  "name": "animal-web-cams",
+  "version": "0.0.1",
+  "description": "A sample Node.js app using Express 4",
+  "engines": {
+    "node": "6.11.1"
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "pug": "2.0.0",
+    "express": "4.15.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joeystevens00/animal-web-cams"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
