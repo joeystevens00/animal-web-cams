@@ -1,0 +1,18 @@
+html
+  head
+    title= 'Animal Live Streams'
+    <link rel="stylesheet" href="css/drop-in.css">
+    <link rel="stylesheet" href="css/index.css">
+    <script src="js/index.js"></script>
+  body
+    header
+      h1 Animal Live Streams
+    main
+      ul
+        each animal in animals.animals
+          - var animalclean = animal.name.split(' ').join('')
+          div(class='category' id=animalclean)
+            h2(class='category' id=animalclean onclick='modifyCategoryState("' + animalclean + '")') #{animal.name}
+            ul(style='display: none')
+              each source in animal.sources
+                li: a(href=source.url) #{source.source}

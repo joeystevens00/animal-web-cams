@@ -1,0 +1,275 @@
+{
+	"animals":
+  [
+    {
+      "name": "gorillas",
+      "sources":
+      [
+        {
+          "source": "houstonzoo.org",
+          "url": "https://www.houstonzoo.org/gorilla-habitat-cam/"
+        }
+      ]
+    },
+    {
+      "name": "elephants",
+      "sources":
+      [
+        {
+          "source": "houstonzoo.org yard cam",
+          "url": "https://www.houstonzoo.org/meet-the-animals/elephant-yard-cam/"
+        },
+        {
+          "source": "houstonzoo.org pool cam",
+          "url": "https://www.houstonzoo.org/meet-the-animals/elephant-pool-cam/"
+        },
+        {
+          "source": "sdzsafaripark.org",
+          "url": "http://sdzsafaripark.org/elephant-cam"
+        },
+        {
+          "source": "zooview.tv",
+          "url": "http://www.zooview.tv/"
+        },
+        {
+          "source": "dublinzoo.ie",
+          "url": "http://www.dublinzoo.ie/18/Elephants.aspx"
+        }
+      ]
+    },
+    {
+      "name": "ants",
+      "sources":
+      [
+        {
+          "source": "houstonzoo.org",
+          "url": "https://www.houstonzoo.org/meet-the-animals/leafcutter-ant-cam/"
+        }
+      ]
+    },
+    {
+      "name": "rhinos",
+      "sources":
+      [
+        {
+          "source": "houstonzoo.org",
+          "url": "https://www.houstonzoo.org/meet-the-animals/rhino-yard-cam/"
+        }
+      ]
+    },
+    {
+      "name": "flamingos",
+      "sources":
+      [
+        {
+          "source": "houstonzoo.org",
+          "url": "https://www.houstonzoo.org/meet-the-animals/flamingo-cam/"
+        }
+      ]
+    },
+    {
+      "name": "chimpanzees",
+      "sources":
+      [
+        {
+          "source": "houstonzoo.org",
+          "url": "https://www.houstonzoo.org/meet-the-animals/chimpanzee-window-cam/"
+        }
+      ]
+    },
+    {
+      "name": "giraffees",
+      "sources":
+      [
+        {
+          "source": "houstonzoo.org feeding platform",
+          "url": "https://www.houstonzoo.org/meet-the-animals/giraffe-platform-cam/"
+        },
+        {
+          "source": "houstonzoo.org barn cam",
+          "url": "https://www.houstonzoo.org/meet-the-animals/giraffe-barn-cam/"
+        }
+      ]
+    },
+    {
+      "name": "pandas",
+      "sources":
+      [
+        {
+          "source": "zoo.sandiegozoo.org",
+          "url": "http://zoo.sandiegozoo.org/cams/panda-cam"
+        },
+        {
+          "source": "nationalzoo.si.edu",
+          "url": "https://nationalzoo.si.edu/webcams/panda-cam"
+        }
+      ]
+    },
+    {
+      "name": "penguins",
+      "sources":
+      [
+        {
+          "source": "zoo.sandiegozoo.org",
+          "url": "http://zoo.sandiegozoo.org/cams/penguin-cam"
+        },
+        {
+          "source": "zoo.sandiegozoo.org",
+          "url": "https://www.kansascityzoo.org/animal-cams/penguin-cam/"
+        },
+        {
+          "source": "zooview.tv",
+          "url": "http://www.zooview.tv/"
+        },
+        {
+          "source": "dublinzoo.ie",
+          "url": "http://dublinzoo.ie/20/Penguins.aspx"
+        }
+      ]
+    },
+    {
+      "name": "tigers",
+      "sources":
+      [
+        {
+          "source": "kansascityzoo.org",
+          "url": "http://sdzsafaripark.org/tiger-cam"
+        },
+        {
+          "source": "zooview.tv",
+          "url": "http://www.zooview.tv/"
+        },
+        {
+          "source": "zoo.org",
+          "url": "http://www.zoo.org/tigercam#.WXPmjIjyt1M"
+        }
+      ]
+    },
+    {
+      "name": "polar bears",
+      "sources":
+      [
+        {
+          "source": "zoo.sandiegozoo.org",
+          "url": "http://zoo.sandiegozoo.org/cams/polar-cam"
+        },
+        {
+          "source": "kansascityzoo.org",
+          "url": "https://www.kansascityzoo.org/animal-cams/polar-bear-cam/"
+        },
+        {
+          "source": "zooview.tv",
+          "url": "http://www.zooview.tv/"
+        }
+      ]
+    },
+    {
+      "name": "condors",
+      "sources":
+      [
+        {
+          "source": "endextinction.org",
+          "url": "http://www.endextinction.org/condor-cam"
+        }
+      ]
+    },
+    {
+      "name": "koalas",
+      "sources":
+      [
+        {
+          "source": "zoo.sandiegozoo.org",
+          "url": "http://zoo.sandiegozoo.org/cams/koala-cam"
+        }
+      ]
+    },
+    {
+      "name": "apes",
+      "sources":
+      [
+        {
+          "source": "zoo.sandiegozoo.org",
+          "url": "http://zoo.sandiegozoo.org/cams/ape-cam"
+        }
+      ]
+    },
+    {
+      "name": "orangutans",
+      "sources":
+      [
+        {
+          "source": "kansascityzoo.org",
+          "url": "https://www.kansascityzoo.org/animal-cams/orangutan-cam/"
+        },
+        {
+          "source": "zooview.tv",
+          "url": "http://www.zooview.tv/"
+        }
+      ]
+    },
+    {
+      "name": "jaguars",
+      "sources":
+      [
+        {
+          "source": "zooview.tv",
+          "url": "http://www.zooview.tv/"
+        }
+      ]
+    },
+    {
+      "name": "misc fish",
+      "sources":
+      [
+        {
+          "source": "zooview.tv",
+          "url": "http://www.zooview.tv/"
+        }
+      ]
+    },
+    {
+      "name": "wolves",
+      "sources":
+      [
+        {
+          "source": "dublinzoo.ie",
+          "url": "http://www.dublinzoo.ie/158/Wolves.aspx"
+        }
+      ]
+    },
+    {
+      "name": "misc african savanna",
+      "sources":
+      [
+        {
+          "source": "dublinzoo.ie",
+          "url": "http://www.dublinzoo.ie/159/African-Savanna.aspx"
+        }
+      ]
+    },
+    {
+      "name": "bats",
+      "sources":
+      [
+        {
+          "source": "zoo.org",
+          "url": "http://www.zoo.org/batcam#.WXPmx4jyt1M"
+        },
+        {
+          "source": "chesterzoo.org",
+          "url": "http://www.chesterzoo.org/explore-the-zoo/attractions-and-exhibits/web-cams/bat-cam"
+        }
+      ]
+    },
+    {
+      "name": "bears",
+      "sources":
+      [
+        {
+          "source": "zoo.org",
+          "url": "http://www.zoo.org/bearcam#.WXPm6Ijyt1M"
+        }
+      ]
+    }
+  ]
+}
