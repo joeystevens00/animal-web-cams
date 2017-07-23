@@ -8,7 +8,7 @@ app.get('/', function(req, res){
   var animals = JSON.parse(fs.readFileSync('data/animals.json'));
   res.render('index', { animals: animals })
 });
-
-app.listen(3000, function () {
-    console.log('listening on port', 80);
+var portbind = process.env.PORT || 5000;
+app.listen(portbind || 5000, function () {
+    console.log('listening on port', portbind);
 });
